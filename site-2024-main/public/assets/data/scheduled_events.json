@@ -1,0 +1,240 @@
+{
+    "specialEvents": [{
+            "specialEventName": "LabEscape",
+            "visGuideDescription": "Register at <a href=\"https://my.physics.illinois.edu/extranet/labescape/eoh2023/\">https://my.physics.illinois.edu/extranet/labescape/eoh2023/</a> <br/><br/> LabEscape: Quantum Salvation. World-renowned scientist Prof. S. desperately needs your help.\n\nA terrible virus could be the end of life as we know it. Quantum tech is humanity's only hope… We recommend teams of five to seven people for this science-based escape room; we will help you by adding other solo agents until the roster is complete, with a minimum of four people required. If there are fewer than four agents by mission time, we may need to cancel that run, so your best bet is to assemble a team now!",
+            "timingsFriday": "Click to Register for a Time Slot!",
+            "timingsSaturday": "Click to Register for a Time Slot!",
+            "timesFridayArr": [
+                ["9:00 am", "5:00 pm"]
+            ],
+            "timesSaturdayArr": [
+                ["9:00 am", "5:00 pm"]
+            ],
+            "location": "1262 Digital Computing Laboratory",
+            "undefined": 10
+        }, {
+            "specialEventName": "KIMLAB Robot Demo",
+            "visGuideDescription": "\nWe make Robots In KIMLAB (Kinetic Intelligent Machine LAB)! KIMLAB members will showcase the latest robots developed and demonstrate how these robots can be used for various tasks. Don't miss out on this one-of-a-kind experience!",
+            "timingsFriday": "10 am - 11 am, 2 pm - 3 pm",
+            "timingsSaturday": "10 am - 11 am, 2 pm - 3 pm",
+            "timesFridayArr": [
+                ["10:00 am", "11:00 am"],
+                ["2:00 pm", "3:00 pm"]
+            ],
+            "timesSaturdayArr": [
+                ["10:00 am", "11:00 am"],
+                ["2:00 pm", "3:00 pm"]
+            ],
+            "location": "Sidney Lu MEB 1100",
+            "undefined": 1030
+        }, {
+            "specialEventName": "Physics Van",
+            "visGuideDescription": "Do you like explosions? Ever thought about using a banana as a hammer? Have you wondered why things are the way they are? Then come watch Physics Van! We are a traveling magic science show that wants to make science fun and relatable. Join us for an hour long show, or stop by at any time and enjoy our liquid nitrogen booth. It\"s the coolest demos you’ll ever see (literally).",
+            "timingsFriday": "10 am, 12 pm, 2 pm",
+            "timingsSaturday": "10 am, 12 pm, 2 pm",
+            "timesFridayArr": [
+                ["10:00 am", "11:00 am"],
+                ["12:00 pm", "1:00 pm"],
+                ["2:00 pm", "3:00 pm"]
+            ],
+            "timesSaturdayArr": [
+                ["10:00 am", "11:00 am"],
+                ["12:00 pm", "1:00 pm"],
+                ["2:00 pm", "3:00 pm"]
+            ],
+            "location": "Loomis 141",
+            "undefined": 11
+        }, {
+            "specialEventName": "Wind Tunnel Demos with WIA!",
+            "visGuideDescription": "Stop by Talbot Lab to learn about flow with the Women in Aerospace! WIA graduate students are doing demonstrations of the Aerospace Department wind tunnels with a moving airfoil lab! These wind tunnels are great examples of how we can model and research airflows for a variety of industries, such as automotive and industrial uses.",
+            "timingsFriday": "All Day",
+            "timingsSaturday": "All Day",
+            "timesFridayArr": [
+                ["9:00 am", "5:00 pm"]
+            ],
+            "timesSaturdayArr": [
+                ["9:00 am", "5:00 pm"]
+            ],
+            "location": "Talbot Laboratory",
+            "undefined": 1130
+        }, {
+            "specialEventName": "NCSA",
+            "visGuideDescription": "See visualizations of galaxies, tornadoes, molecular structures, and more created by NCSA's Advanced Visualization Lab. Many of these visualizations were created for documentary films, IMAX, and museums and will be shown in 3D. ",
+            "timingsFriday": "9 am - 3 pm every 30 minutes",
+            "timingsSaturday": "N/A",
+            "timesFridayArr": [
+                ["9:00 am", "3:00 pm"]
+            ],
+            "location": "NCSA 1005",
+            "undefined": 1230
+        }, {
+            "specialEventName": "Build-a-Blinkie",
+            "visGuideDescription": "Build-a-Blinkie is an organization dedicated to the teaching of STEM. We are teaching people to solder one blinkie at a time. Come check out this interactive activity and take home your own soldered blinkie! The custom EOH Blinkies are sponsored by the Dyson Foundation, stop by their booth next to Build-a-Blinkie to learn more about their engineering innovation!",
+            "timingsFriday": "1 pm - 4 pm",
+            "timingsSaturday": "9 am - 4 pm ",
+            "timesFridayArr": [
+                ["1:00 pm", "4:00 pm"]
+            ],
+            "timesSaturdayArr": [
+                ["9:00 am", "4:00 pm"]
+            ],
+            "location": "CIF 0035",
+            "undefined": 1
+        }, {
+            "specialEventName": "Rube Goldberg",
+            "visGuideDescription": "UIUC’s Rube Goldberg Society’s large sci-fi themed Rube Goldberg machine tells the story of some fruity aliens. Taking inspiration from the popular Rube Goldberg comics, the society creates one new giant machine of chain reactions every year to complete one simple task. Watch their machine run every half hour.",
+            "timingsFriday": "10 am - 3:30 every 30 minutes",
+            "timingsSaturday": "10 am - 3:30 every 30 minutes",
+            "timesFridayArr": [
+                ["10:00 am", "3:30 pm"]
+            ],
+            "timesSaturdayArr": [
+                ["10:00 am", "3:30 pm"]
+            ],
+            "location": "MechE 1047",
+            "undefined": 130
+        }, {
+            "specialEventName": "Tesla Coil",
+            "visGuideDescription": "Just as dark falls, visit the Bardeen Quad to see an electrifying display of light and sound.",
+            "timingsSaturday": "8 - 9 pm",
+            "timingsFriday": "N/A",
+            "timesSaturdayArr": [
+                ["8:00 pm", "9:00 pm"]
+            ],
+            "location": "Bardeen Quad "
+        }, {
+            "specialEventName": "Women in Engineering Panel",
+            "visGuideDescription": "Check out some of our women engineering students and professors talk about their experiences in their respective fields!",
+            "timingsFriday": "1:00pm - 1:30pm",
+            "timingsSaturday": "1:00pm - 1:30pm",
+            "timesFridayArr": [
+                ["1:00 pm", "1:30 pm"]
+            ],
+            "timesSaturdayArr": [
+                ["1:00 pm", "1:30 pm"]
+            ],
+            "location": "CIF 2018"
+        }, {
+            "specialEventName": "What I Wish I Knew When I Was In High School Panel",
+            "visGuideDescription": "Listen in on advice from current college students on what activities helped them discover their passion and any tips they have for prospective students!",
+            "timingsFriday": "11:00am - 11:30am",
+            "timingsSaturday": "11:00am - 11:30am",
+            "timesFridayArr": [
+                ["11:00 am", "11:30 am"]
+            ],
+            "timesSaturdayArr": [
+                ["11:00 am", "11:30 am"]
+            ],
+            "location": "CIF 2018"
+        }, {
+            "specialEventName": "Prospective Student Info Session & Panel",
+            "visGuideDescription": "Join the Grainger College of Engineering Undergraduate Admission & Recruitment team for an informational presentation during Engineering Open House to learn about the college, our majors, and the application process for first-year and transfer applicants. This session is geared towards high school students.",
+            "timingsFriday": "10 - 10:30 am ",
+            "timesFridayArr": [
+                ["10:00 am", "10:30 am"]
+            ],
+            "location": "CIF 2018"
+        }, {
+            "specialEventName": "LEGO Design Lab",
+            "visGuideDescription": " Feeling inspired by from checking out student exhibits? Now it's your turn to become the engineer! Come check out our design lab where you'll be able to let your imagination run wild! Recommended for age 10 and under!",
+            "timingsFriday": "All Day",
+            "timingsSaturday": "All Day",
+            "timesFridayArr": [
+                ["9:00 am", "5:00 pm"]
+            ],
+            "timesSaturdayArr": [
+                ["9:00 am", "5:00 pm"]
+            ],
+            "location": "CIF 2036"
+        }, {
+            "specialEventName": "ESPL Demo",
+            "visGuideDescription": "This EOH showcase track is for vehicles built and designed by engineering student teams for collegiate competitions: two formula racecars (one electric powered and the other gas), a Baja off-road ATV, a 3-wheeled super-mileage vehicle, an electric commuter concept car, a tractor-pull, and a solar powered vehicle. This is a great opportunity for action pictures and for the public to talk to team members between demonstration events.",
+            "timingsFriday": "10 am, 11 am, 1 pm, 2 pm, 3 pm",
+            "timingsSaturday": "10 am, 11 am, 1 pm, 2 pm",
+            "timesFridayArr": [
+                ["1:00 pm", "1:30 pm"]
+            ],
+            "timesSaturdayArr": [
+                ["1:00 pm", "1:30 pm"]
+            ],
+            "location": "Grainger Loading Dock"
+        }, {
+            "specialEventName": "ESTAR Tours",
+            "visGuideDescription": "Want to learn more about the different resources that UIUC has to offer and our various engineering buildings? Attend one of the ESTAR tours to learn more about our facilities and some history behind Grainger College of Engineering.",
+            "timingsFriday": "10am -11am, 12pm - 1pm, 4pm - 5pm",
+            "timingsSaturday": " 12pm - 1pm, 2pm - 3pm, 4pm - 5pm",
+            "timesFridayArr": [
+                ["10:00 am", "11:00 am"],
+                ["12:00 pm", "1:00 pm"],
+                ["4:00 pm", "5:00 pm"]
+            ],
+            "timesSaturdayArr": [
+                ["12:00 pm", "1:00 pm"],
+                ["2:00 pm", "3:00 pm"],
+                ["4:00 pm", "5:00 pm"]
+            ],
+            "location": "Departs from the South Side of Grainger Library next to Grainger Bob"
+        },
+        {
+            "specialEventName": "From Bardeen, Brattain, and the Point Contact Transistor to Light Emitting Transistor Structures: A View of the Past and Future Possibilities",
+            "visGuideDescription": "Saturday Engineering for Everyone is an open and free lecture series aimed at non-engineers of all backgrounds who are interested in learning about engineering topics. This year we celebrate the 75th anniversary of the transistor. The development of this tiny device paved the way for modern electronics, and you probably use transistors every day – they are part of our phones, computers, cameras and even refrigerators. Professor Dallesasse will present the history and applications of the transistor, key advances in transistor technology and the potential uses and benefits of newer applications including light-emitting transistors and the transistor-injected quantum cascade laser.",
+            "timingsFriday": "N/A",
+            "timingsSaturday": "2 pm - 3 pm",
+            "timesSaturdayArr": [
+                ["2:00 pm", "3:00 pm"]
+            ],
+            "location": "ECEB 1002 - Grainger Auditorium"
+        }, {
+            "specialEventName": "Jump Simulation Center Demo",
+            "visGuideDescription": " Simulation training is revolutionizing medical education today. Come learn medical techniques in a low-risk environment with virtual reality, manikins, and more, it's as close to reality as possible without affecting a human's health and safety.",
+            "timingsFriday": "All Day",
+            "timingsSaturday": "All Day",
+            "timesFridayArr": [
+                ["9:00 am", "5:00 pm"]
+            ],
+            "timesSaturdayArr": [
+                ["9:00 am", "5:00 pm"]
+            ],
+            "location": "Carle Jump Lab in Everitt Basement"
+        }, {
+            "specialEventName": "Startup Showcase",
+            "timingsFriday": "10-3 pm",
+            "timingsSaturday": "11-4 pm",
+            "timesFridayArr": [
+                ["10:00 am", "3:00 pm"]
+            ],
+            "timesSaturdayArr": [
+                ["11:00 am", "4:00 pm"]
+            ],
+            "visGuideDescription": "The Startup Showcase is dedicated to celebrating student entrepreneurs! Come see what our inventive Illinois students have been working on at their booths and experience demos, giveaways, and much more! <br/><br/> CIF Monumental Steps Friday 11-11:30, 12-12:30, 2-2:30, 3-3:30 pm. The Startup Showcase pitch competition is a rapid-fire session where our 20+ teams will explain what they’ve been working on, and try to sell you on it!",
+            "location": "CIF 3039 Startup Booths"
+        }, {
+            "specialEventName": "Keynote Speaker and EOH 2023 Awards",
+            "timingsFriday": "N/A",
+            "timingsSaturday": "4 - 5:30 pm",
+            "timesSaturdayArr": [
+                ["4:00 pm", "5:30 pm"]
+            ],
+            "visGuideDescription": "Join us on the CIF monumental steps (or online at <a href=\"https://www.twitch.tv/eohillinois\">https://www.twitch.tv/eohillinois</a>) for our keynote speaker to kick off EOH 2023! Our keynote speaker this year is Todd Little who is the chief architect at Oracle and an Alumni of The Grainger College of Engineering. With more than 40 years of software architecture and development experience, he has also received two patents for methods allowing design patterns in a UML modeling tool to control the generation of software artifacts. The Awards Ceremony provides an opportunity to celebrate the hard work that our exhibitors have put into their exhibits. With 25 awards this year, we look forward to highlight outstanding exhibits that demonstrate creativity, innovation, and passion. All are welcome to attend!",
+            "location": "CIF Monumental Steps"
+        }, {
+            "specialEventName": "Choose Grainger Engineering: Engineering Open House",
+            "timingsFriday": "10:30 - 11:30 am",
+            "timingsSaturday": "N/A",
+            "timesFridayArr": [
+                ["10:30 am", "11:30 am"]
+            ],
+            "visGuideDescription": "<a href=\"https://myillini.illinois.edu/AdmittedEvents/grainger_choose\">Register at Choose for EOH</a>.<br/><br/>Admitted engineering students! Join the Grainger College of Engineering Undergraduate Admission & Recruitment Team for an informational session that will address our most frequently asked questions like \"How do I pay for college?\" A panel of students will be available to answer all your questions about student life and the Grainger Engineering experience. Not to mention, there will be an entire Engineering Open House happening that you can explore before and after this session. <br/><br/> Agenda: <ul><li>35-min: Welcome & Introductions</li><li>25-min: Student Panel</li></ul>",
+            "location": "CIF 3018"
+        },
+        {
+            "specialEventName": "Dyson Tech Talk",
+            "timingsFriday": "1-2 pm",
+            "timesFridayArr": [
+                ["1:00 pm", "2:00 pm"]
+            ],
+            "visGuideDescription": "On Friday, March 31 from 1:00pm-2:00pm CT,  join Dyson engineers for an info session and Q+A on their <a href=\"https://urldefense.com/v3/__https:/clicktime.symantec.com/37rKhHNic63nwcZPmpRi4w96H2?u=https*3A*2F*2Fwww.jamesdysonaward.org*2Fen-US*2F__;JSUlJSU!!DZ3fjg!u2KhhDI8iX47a1ZGNVR88fZFjCjajX1992kWrBrck9-5ctsHdDHNxkGHnHfyKvugxg$\">James Dyson Award</a>. During the session, you will hear an overview of Dyson’s design process and tips for what makes a winning entry to their annual engineering competition, the James Dyson Award.",
+            "location": "DCL 1320"
+        }
+    ]
+}

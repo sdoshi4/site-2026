@@ -1,0 +1,132 @@
+[
+    {
+        "id": 10,
+        "documentId": "qrmyawk7u4fca6woflxjchlx",
+        "Question": "What kinds of special events will you have?",
+        "createdAt": "2024-11-19T23:29:36.454Z",
+        "updatedAt": "2024-11-19T23:29:36.454Z",
+        "publishedAt": "2024-11-19T23:29:36.484Z",
+        "Category": "Event FAQs",
+        "Description": "We will have several different kinds of events, including a Tesla Coil concert, a Startup Showcase, and prospective student panels among many others!"
+    },
+    {
+        "id": 19,
+        "documentId": "pcyj4494koz7le9t98m3ojbx",
+        "Question": "Where can I park during EOH?",
+        "createdAt": "2025-03-25T00:39:47.835Z",
+        "updatedAt": "2025-03-25T00:39:47.835Z",
+        "publishedAt": "2025-03-25T00:39:47.849Z",
+        "Category": "Parking FAQs",
+        "Description": "On Friday, visitors can park in these lots:\n\nLot E-14: Near State Farm Center. Can be used for all-day parking on Friday April 5th. The shuttle will pick people up from E-14 and send them to the Bardeen Quad/other exhibits.\nLot B-4: North campus, can also be used for all-day parking April 5th. There is no shuttle stop here, so attendees will have to walk to Bardeen Quad (closest stop would be B-22).\nOn Saturday, visitors can park in:\n\nLot B-1: Springfield Avenue between Mathews and Goodwin\nLot B-17: Harvey Street between Clark and Main\nLot C-09: Chalmers and Sixth\nLot D-09: Illinois and Lincoln\nLot E-14: First Street and Kirby\nLot F-23: Lincoln Avenue and Florida\nLot F-28: Peabody and Dorner Drive\nLot B-4: University and Mathews\nLot F-29: Gregory and Dorner Drive"
+    },
+    {
+        "id": 21,
+        "documentId": "l3b4lxav9bhl5mpodd5ncrq2",
+        "Question": "How can I get around on EOH?",
+        "createdAt": "2025-03-25T00:43:42.405Z",
+        "updatedAt": "2025-03-25T00:43:42.405Z",
+        "publishedAt": "2025-03-25T00:43:42.414Z",
+        "Category": "Parking FAQs",
+        "Description": "There will be shuttles running all day on EOH. They will stop at all the parking lots and major hubs for exhibits like ECEB, CIF and Everitt. You find the detailed shuttle route on the vis guide!"
+    },
+    {
+        "id": 23,
+        "documentId": "y04mnwnaxxvs3zaij9ih7wf7",
+        "Question": "What food will be available during EOH?",
+        "createdAt": "2025-03-25T17:56:28.882Z",
+        "updatedAt": "2025-03-25T17:56:28.882Z",
+        "publishedAt": "2025-03-25T17:56:28.893Z",
+        "Category": "Food FAQs",
+        "Description": "Look out for our students\u2019 favorite food trucks on Springfield Avenue, including:\n- Juanito\u2019s Tacos\n- Chicago Grill\n- Pastamania\n- Kona Ice\n- Travelin\u2019 Tom\u2019s Coffee Truck\n- Lemonade Factory\n- La Paloma\n- Burrito King\n- Fernando\u2019s Food Truck"
+    },
+    {
+        "id": 27,
+        "documentId": "nm5sq60bpm3nmiaadoyhl91j",
+        "Question": "In the event of severe weather, where can I get updates about exhibit locations?",
+        "createdAt": "2025-03-25T19:28:36.057Z",
+        "updatedAt": "2025-03-25T19:28:36.057Z",
+        "publishedAt": "2025-03-25T19:28:36.069Z",
+        "Category": "Emergency FAQs",
+        "Description": "In the event of severe weather, all outdoor exhibits will be moved indoors. Updates will be posted at https://eohillinois.org/"
+    },
+    {
+        "id": 29,
+        "documentId": "ca85zo5yl7zrxwd2bo8fdq1z",
+        "Question": "What is the protocol for a lost or missing child at EOH?",
+        "createdAt": "2025-03-25T19:32:53.989Z",
+        "updatedAt": "2025-03-25T19:32:53.989Z",
+        "publishedAt": "2025-03-25T19:32:53.996Z",
+        "Category": "Emergency FAQs",
+        "Description": "In the event of a lost or missing child, please find and notify the nearest visitor's booth. A volunteer will bring the lost child to the Campus Instructional Facility (CIF), notify 911, and\nmeet the reporting person and the lost child. A parent/guardian will be able to meet the child at CIF."
+    },
+    {
+        "id": 31,
+        "documentId": "u9biwdhi2vumpfjtba2n67ho",
+        "Question": "Where should I go in the event of a medical emergency?",
+        "createdAt": "2025-03-25T19:36:07.236Z",
+        "updatedAt": "2025-03-25T19:36:07.236Z",
+        "publishedAt": "2025-03-25T19:36:07.246Z",
+        "Category": "Emergency FAQs",
+        "Description": "In case of injury or a related medical concern, immediately notify any nearby volunteer and go to the EMS tent on Graziano Plaza (in between Engineering Hall and Everitt Laboratory)."
+    },
+    {
+        "id": 33,
+        "documentId": "d401l5agrw4kpxdspna2v4y3",
+        "Question": "I have a question - who should I ask on the days of EOH?",
+        "createdAt": "2025-03-25T19:51:25.420Z",
+        "updatedAt": "2025-03-25T19:51:25.420Z",
+        "publishedAt": "2025-03-25T19:51:25.428Z",
+        "Category": "Event FAQs",
+        "Description": "Please refer to the following list of shirt colors to see who can best help you out:\nVolunteers - Yellow\nExhibitors - Light Pink\nCommittee Members - White\nSponsors - Latte\nJudges - Navy\nHSDC - Bright Blue\nMSDC - Lavender\nStart-Up Showcase - Burgundy\nVisitors - Aloe"
+    },
+    {
+        "id": 35,
+        "documentId": "p7zrf453xsfyd1xkd2ipx6no",
+        "Question": "What hospitals are nearby?",
+        "createdAt": "2025-03-25T19:53:21.997Z",
+        "updatedAt": "2025-03-25T19:53:21.997Z",
+        "publishedAt": "2025-03-25T19:53:22.019Z",
+        "Category": "Emergency FAQs",
+        "Description": "Local hospitals are Carle Foundation Hospital and Presence Covenant Medical Center."
+    },
+    {
+        "id": 38,
+        "documentId": "y8ginr7yb81w54ebrcu9nks1",
+        "Question": "What kinds of exhibits can we expect?",
+        "createdAt": "2024-11-19T23:28:37.477Z",
+        "updatedAt": "2025-03-27T23:52:05.722Z",
+        "publishedAt": "2025-03-27T23:52:05.752Z",
+        "Category": "Event FAQs",
+        "Description": "We have an exhibit for every major this year! Ranging from robotic hands, solar cars, and a coffee-serving robot, to an oobleck pool and DIY plastic, we will have something for everyone to experience engineering."
+    },
+    {
+        "id": 41,
+        "documentId": "gkfe5h7bfrydhxegi0b2omg2",
+        "Question": "What is the Engineering Open House Central Committee?",
+        "createdAt": "2025-03-25T20:01:39.442Z",
+        "updatedAt": "2025-03-28T00:28:11.596Z",
+        "publishedAt": "2025-03-28T00:28:11.611Z",
+        "Category": "Event FAQs",
+        "Description": "The EOH Central Committee is the student group responsible for planning the entirety of EOH! Composed of students in different grade levels and majors, Committee members have been planning EOH for an entire year. You can find members of the EOH Central Committee in gray EOH jackets and white EOH t-shirts. "
+    },
+    {
+        "id": 42,
+        "documentId": "av21v7bnody8wwt78yy8oli2",
+        "Question": "When and where is EOH 2025?",
+        "createdAt": "2025-03-25T19:24:52.116Z",
+        "updatedAt": "2025-03-28T00:28:35.259Z",
+        "publishedAt": "2025-03-28T00:28:35.277Z",
+        "Category": "Event FAQs",
+        "Description": "EOH 2025 is from April 4th to April 5th, 2025 and the event runs from 9 AM-4 PM on both days. On April 4th, the Tesla Coil Concert will be at 8:30 PM after exhibits close for the day (weather permitting). The home base for EOH is Campus Instructional Facility (1405 W Springfield Ave) and exhibits will in housed in buildings across campus. See the Visitor's Information Guide or navigate to https://eohillinois.org/vv for more information on a specific exhibit!"
+    },
+    {
+        "id": 44,
+        "documentId": "xr5qn36kaeh9zqwgz83b2hte",
+        "Question": "What is EOH?",
+        "createdAt": "2024-11-19T23:29:12.871Z",
+        "updatedAt": "2025-03-28T00:28:48.072Z",
+        "publishedAt": "2025-03-28T00:28:48.088Z",
+        "Category": "Event FAQs",
+        "Description": "Engineering Open House (EOH) is the nation\u2019s largest student-run STEM fair organized entirely by students in the Grainger College of Engineering at the University of Illinois Urbana-Champaign. EOH is a celebration of innovation and how Grainger Engineering students are at the forefront of new technologies. Traditionally, EOH features over 200 student- and faculty-led exhibits, over ten special events, and has a total audience of approximately 30,000 people. EOH is an event that can be enjoyed by students of all ages, families, and community members."
+    }
+]

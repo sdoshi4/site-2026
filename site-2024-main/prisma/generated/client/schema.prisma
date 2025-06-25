@@ -1,0 +1,30 @@
+datasource db {
+  provider = "cockroachdb"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+  output   = "./generated/client"
+}
+
+model Slot {
+  id              Int      @id @default(sequence())
+  description     String
+  time            String
+  endTime         String
+  location        String
+  maxParticipants Int
+  waitListSize    Int
+waitList        Volunteer[] @relation(name: "WaitListedVolunteers")
+volunteers      Volunteer[] @relation(name: "SlotVolunteers")
+}
+
+model Volunteer {
+  id      Int    @id @default(sequence())
+  clerkId String @unique
+  email   String
+  name    String
+  Slots  Slot[] @relation(name: "SlotVolunteers")
+    waitListedSlots Slot[] @relation(name: "WaitListedVolunteers")
+}

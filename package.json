@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "firebase": "^11.4.0",
+    "react-multi-carousel": "^2.8.5",
+    "react-slick": "^0.30.2",
+    "slick-carousel": "^1.8.1",
+    "xlsx": "^0.18.5"
+  }
+}

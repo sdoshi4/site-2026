@@ -1,0 +1,57 @@
+{
+  "events": [
+    {
+      "name": "Grainger Engineering Alumni Campus Tour",
+      "times": ["Friday, 2:00pm - 3:00pm (Immediately following the Alumni Panel)"],
+      "location": "CIF Monumental Steps",
+      "description": "Welcome back to Illinois! Join the ESTAR Engineering Tour Guides as they show you around new (and old!) campus spaces alike and talk about all that's new in Grainger Engineering."
+    },
+    {
+      "name": "Grainger Engineering General Campus Tours",
+      "times": ["Friday & Saturday, 10:00am - 11:00am, 12:00pm - 1:00pm, and 1:00pm - 2:00pm"],
+      "location": "Bardeen Quad between CIF and Grainger Library",
+      "description": "Are you interested in seeing some of Grainger Engineering's state-of-the-art lab spaces? Do you want to talk to a current engineering student to see what life is really like in Grainger? Join the ESTAR Engineering Tour Guides as they show you all Grainger Engineering has to offer and more!"
+    },
+    {
+      "name": "I'm Admitted! Grainger Engineering Welcome",
+      "times": [
+        "Student Panel in Room 3018, Friday: 10:00am – 11:00am & 2:00 – 3:00pm",
+        "College Resource Fair on Monumental Steps, Friday: 11:00am – 2:00pm",
+        "Student Panel in Room 3018, Saturday: 11:00am – 12:00pm",
+        "College Resource Fair on Monumental Steps, Saturday: 12:00pm – 2:00pm"
+      ],
+      "location": "CIF 3018 and CIF Monumental Steps",
+      "description": "Congratulations admitted new first-year and transfer engineering students! Start your Engineering Open House visit at the Campus Instructional Facility (CIF) monumental steps to receive a limited-edition gift while supplies last. Then join us for a Student Panel to meet a Dean and connect with current students. Stop by the College Resource Fair to learn about future opportunities and take a fun, commemorative photo! "
+    },
+    {
+      "name": "Grainger Alumni Panel",
+      "times": ["Saturday, 3:00pm - 4:30pm"],
+      "location": "CIF Monumental Steps",
+      "description": "Want to hear more about the amazing things UIUC Alumni have done after graduating? Come to our Alumni Panel to discuss current Alumni's careers, advice, and time at UIUC!"
+    },
+    {
+      "name": "Mini Research Fair",
+      "times": [
+        "Friday 3:00 PM - 4:30 PM"
+      ],
+      "location": "Sidney Lu MEB Basement",
+      "description": "Professors will have posters with their research, and undergraduates will be able to talk to them about the research they are doing."
+    },
+    {
+      "name": "Professor Panel",
+      "times": [
+        "Friday and Saturday, 1:00 PM -2:30 PM"
+      ],
+      "location": "CIF 2018",
+      "description": "The professor panel is an opportunity for current and prospective students to ask professors about their fields, how to get involved with research, and pursuing academia/graduate school."
+    },
+    {
+      "name": "Alumni Coffee Chats",
+      "times": [
+        "Saturday, 11:00 AM - 1:00 PM"
+      ],
+      "location": "CIF 2036",
+      "description": "Students can get to know alumni in a more personal setting! This is a great opportunity to ask alums about their time at the U of I, the industries they work in, and how students can plan their lives after college."
+    }
+  ]
+}

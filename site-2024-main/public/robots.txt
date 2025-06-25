@@ -1,0 +1,17 @@
+//robots.txt
+
+# Block all crawlers for /accounts
+User-agent: *
+
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+Sitemap: https://eohillinois.org/sitemap.xml
+
+#Mysitemapgenerator does not need to visit URL starting with /noindex-directory/
+    #But allows to index pages with a specific extension
+User-agent: Mysitemapgenerator
+Disallow: /noindex-directory/
+Allow: /noindex-directory/*.html
+
