@@ -1,6 +1,6 @@
 import { Fragment } from "react";
 import Content from "@/content";
-import Head from "next/head";
+import Head from "next/head.js";
 import Bubble from "@/bubble";
 import Button from "@/button";
 import SponsorCard from "@/sponsor-card";

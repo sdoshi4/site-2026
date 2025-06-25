@@ -1,4 +1,4 @@
-import { Icon } from "@iconify/react/dist/iconify.js";
+import { Icon } from "@iconify/react";
 import { useState } from "react";
 // import {openModal, closeModal } from "./map.js"
 import useMapModal from "./map-modal.js";
