@@ -3,7 +3,7 @@ import Button from "@/button";
 import Link from "next/link";
 import MobileMenu from "@/mobile-menu";
 import { useRouter } from "next/navigation";
-
+ 
 export default function Header({ headerItems }) {
   // IMPLEMENT SIGN OUT WITH MIDDLEWARE USING FIREBASE
 

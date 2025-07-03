@@ -1,6 +1,6 @@
 import { Doppio_One, Montserrat } from "next/font/google";
 import { Fragment } from "react";
-import "../styles/globals.css";
+import '../styles/globals.css';
 import BasicApp from "../layouts/BasicApp";
 import "../styles/animations.css";
 import "../styles/index.css";
