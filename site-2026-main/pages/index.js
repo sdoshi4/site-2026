@@ -1,16 +1,28 @@
-import Section from "@/section"
-import Interest from "@layouts/Interest"
-import Sponsors from "@layouts/Sponsors"
-import Title from "@layouts/Title"
-import Head from "next/head.js"
-import { Fragment } from "react"
-import CorporateSponsorLayout from "../layouts/CorporateSponsorLayout/index.js"
-import Directors from "../layouts/Directors/index.js"
-import EventList from "../layouts/EventList/index.js"
-import { KeynoteSpeaker } from "../layouts/Keynote/index.js"
-import ScheduleSection from "../layouts/Schedule/index.js"
-import Visitors from "../layouts/Visitors/index.js"
-import Awards from "../layouts/Awards/index.js"
+import Section from "@/section";
+import Interest from "@layouts/Interest";
+import Sponsors from "@layouts/Sponsors";
+import Title from "@layouts/Title";
+import Head from "next/head.js";
+import { Fragment } from "react";
+import CorporateSponsorLayout from "../layouts/CorporateSponsorLayout/index.js";
+import Directors from "../layouts/Directors/index.js";
+import EventList from "../layouts/EventList/index.js";
+import { KeynoteSpeaker } from "../layouts/Keynote/index.js";
+import ScheduleSection from "../layouts/Schedule/index.js";
+import Visitors from "../layouts/Visitors/index.js";
+import Awards from "../layouts/Awards/index.js";
+
+console.log("Section:", Section);
+console.log("Interest:", Interest);
+console.log("Sponsors:", Sponsors);
+console.log("Title:", Title);
+console.log("CorporateSponsorLayout:", CorporateSponsorLayout);
+console.log("Directors:", Directors);
+console.log("EventList:", EventList);
+console.log("KeynoteSpeaker:", KeynoteSpeaker);
+console.log("ScheduleSection:", ScheduleSection);
+console.log("Visitors:", Visitors);
+console.log("Awards:", Awards);
 
 export default function Home() {
   return (
@@ -18,7 +30,10 @@ export default function Home() {
       <Head>
         <title>EOH 2025</title>
         <link rel="icon" href="/favicon_black_outline.ico" />
-        <meta name="google-site-verification" content="N_zq-IzUiNIJFGldY3CVIn-PDSYtHkdklYt2VuMSa4E" />
+        <meta
+          name="google-site-verification"
+          content="N_zq-IzUiNIJFGldY3CVIn-PDSYtHkdklYt2VuMSa4E"
+        />
       </Head>
 
       <main>
@@ -32,25 +47,23 @@ export default function Home() {
           <Visitors />
         </Section>
         <Section
-  color="bg-cover bg-center"
-  id="keynote"
-  title={
-    <span className="block text-center font-bold">
-      {/* Mobile version: with <br> */}
-      <span className="block sm:hidden">
-        Keynote from<br />Anna Oldani
-      </span>
-      {/* Desktop version: no <br> */}
-      <span className="hidden sm:inline">
-        Keynote from Anna Oldani
-      </span>
-    </span>
-  }
->
-  <KeynoteSpeaker />
-</Section>
-
-
+          color="bg-cover bg-center"
+          id="keynote"
+          title={
+            <span className="block text-center font-bold">
+              {/* Mobile version: with <br> */}
+              <span className="block sm:hidden">
+                Keynote from
+                <br />
+                Anna Oldani
+              </span>
+              {/* Desktop version: no <br> */}
+              <span className="hidden sm:inline">Keynote from Anna Oldani</span>
+            </span>
+          }
+        >
+          <KeynoteSpeaker />
+        </Section>
 
         <Section
           title="Featured Events"
@@ -97,9 +110,9 @@ export default function Home() {
         {/* <Section color="white" title="EOH 2024 Awards" id="awards">
           <Awards />
         </Section> */}
-        
+
         <div className="h-12"></div>
       </main>
     </Fragment>
-  )
+  );
 }

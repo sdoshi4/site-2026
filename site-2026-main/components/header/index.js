@@ -1,33 +1,33 @@
-import { Fragment, useState } from "react"
-import Button from "@/button"
-import Link from "next/link"
-import MobileMenu from "@/mobile-menu"
-import { useClerk, useUser } from "@clerk/nextjs"
-import { useRouter } from "next/navigation"
+import { Fragment, useState } from "react";
+import Button from "@/button";
+import Link from "next/link";
+import MobileMenu from "@/mobile-menu";
+import { useRouter } from "next/navigation";
 
 export default function Header({ headerItems }) {
-  const [menuOpen, setMenuOpen] = useState(false)
-  const { isSignedIn, isLoaded } = useUser()
-  const { signOut } = useClerk()
-  const router = useRouter()
+  // IMPLEMENT SIGN OUT WITH MIDDLEWARE USING FIREBASE
+
+  const [menuOpen, setMenuOpen] = useState(false);
+  const { isSignedIn, isLoaded } = { isSignedIn: true, isLoaded: true }; // NEED TO FIX WITH MIDDLEWARE
+  const router = useRouter();
 
   // hardcore js right here
-  let mobileMenu = []
+  let mobileMenu = [];
   headerItems.forEach((item) => {
     if (typeof item.menuItems === "undefined") {
-      mobileMenu.push(item)
+      mobileMenu.push(item);
     } else {
       if (item.href && !item.noMobile)
-        mobileMenu.push({ text: item.text, href: item.href, type: item.type })
+        mobileMenu.push({ text: item.text, href: item.href, type: item.type });
       item.menuItems.forEach((item) => {
-        mobileMenu.push(item)
-      })
+        mobileMenu.push(item);
+      });
     }
-  })
+  });
 
   return (
     <Fragment>
-      {/* Mobile */} 
+      {/* Mobile */}
       <div className="fixed top-0 lg:hidden w-screen h-24 bg-white border-4 flex flex-col justify-center z-30">
         <div className="flex justify-center flex-row w-full">
           <Link href="/">
@@ -93,7 +93,7 @@ export default function Header({ headerItems }) {
                   }
                   style={{ fontWeight: 700, fontSize: 14 }}
                   multiline
-                  onClick={() => signOut(() => router.push("/"))}
+                  onClick={() => router.push("/")}
                 >
                   Sign Out
                 </Button>
@@ -103,5 +103,5 @@ export default function Header({ headerItems }) {
         </div>
       </div>
     </Fragment>
-  )
+  );
 }

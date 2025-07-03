@@ -1,29 +1,31 @@
-import { ClerkProvider } from "@clerk/nextjs";
-import { Doppio_One, Montserrat } from 'next/font/google';
+import { Doppio_One, Montserrat } from "next/font/google";
 import { Fragment } from "react";
-import "tailwindcss/tailwind.css";
+import "../styles/globals.css";
 import BasicApp from "../layouts/BasicApp";
 import "../styles/animations.css";
 import "../styles/index.css";
-import NextAdapterApp from 'next-query-params/app';
-import { QueryParamProvider } from 'use-query-params';
+import NextAdapterApp from "next-query-params/app";
+import { QueryParamProvider } from "use-query-params";
 
 const montserrat = Montserrat({
-  variable: '--font-montserrat',
-  subsets: ['latin'],
-})
+  variable: "--font-montserrat",
+  subsets: ["latin"],
+});
 
 const doppioOne = Doppio_One({
-  weight: '400',
-  variable: '--font-doppio',
-  subsets: ['latin'],
-})
-
+  weight: "400",
+  variable: "--font-doppio",
+  subsets: ["latin"],
+});
 
 function EOHApp(props) {
   return (
     <Fragment>
-      <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true" />
+      <link
+        rel="preconnect"
+        href="https://fonts.gstatic.com"
+        crossOrigin="true"
+      />
       <link rel="preconnect" href="https://fonts.googleapis.com" />
       <link
         rel="preconnect"
@@ -52,15 +54,15 @@ function EOHApp(props) {
         href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
         rel="stylesheet"
       ></link>
-      <main className={`${montserrat.variable} ${doppioOne.variable} font-sans`}>
+      <main
+        className={`${montserrat.variable} ${doppioOne.variable} font-sans`}
+      >
         <QueryParamProvider adapter={NextAdapterApp}>
-          <ClerkProvider {...props}>
-            <BasicApp {...props} />
-          </ClerkProvider>
+          <BasicApp {...props} />
         </QueryParamProvider>
       </main>
     </Fragment>
   );
 }
 
-export default EOHApp
+export default EOHApp;

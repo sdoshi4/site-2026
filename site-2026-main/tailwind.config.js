@@ -1,3 +1,4 @@
+/** @type {import('tailwindcss').Config} */
 module.exports = {
   mode: "jit",
   purge: [
@@ -11,18 +12,18 @@ module.exports = {
     fontFamily: {
       tourney: ["Tourney", "Roboto", "sans-serif"],
       roboto: ["Roboto", "Montserrat", "sans-serif"],
-      montserrat: ['var(--font-montserrat)'],
-      sans: ['var(--font-montserrat)'],
-      heading: ['var(--font-doppio)'],
+      montserrat: ["var(--font-montserrat)"],
+      sans: ["var(--font-montserrat)"],
+      heading: ["var(--font-doppio)"],
       lovelo: ["Lovelo", "sans-serif"],
     },
     screens: {
-      'xs': '375px',
-      'sm': '640px',
-      'md': '768px',
-      'lg': '1024px',
-      'xl': '1280px',
-      '2xl': '1536px',
+      xs: "375px",
+      sm: "640px",
+      md: "768px",
+      lg: "1024px",
+      xl: "1280px",
+      "2xl": "1536px",
     },
     extend: {
       minWidth: {
@@ -62,24 +63,24 @@ module.exports = {
         "3xl": "1720px",
       },
       backgroundImage: {
-        'rockets-layer': "url('/assets/background/website_rockets_layer.png')",
+        "rockets-layer": "url('/assets/background/website_rockets_layer.png')",
         "red-line": "url('/assets/background/redline.jpg')",
-        'robobrawl': "url('/assets/background/card/rb24.jpg')",
-        'msdc': "url('/assets/background/card/msdc24.jpg')",
-        'tesla': "url('/assets/background/card/tc24.jpg')",
-        'hsdc': "url('/assets/background/card/hsdc24.jpg')",
-        'keynote': "url('/assets/background/card/keynote24.jpg')",
-        'startup': "url('/assets/background/card/startup24.jpg')",
-        'waves-pink2': "url('/assets/background/waves-pink2.svg')",
-        'waves-yell1': "url('/assets/background/waves-yell1.svg')",
-        'waves-blue1': "url('/assets/background/waves-blue1.svg')",
-        'waves-blue2': "url('/assets/background/waves-blue2.svg')",
-        'waves-bottom': "url('/assets/background/waves-bottom.svg')",
-        'waves-bottom2': "url('/assets/background/waves-bottom2.svg')",
-        'waves-green1': "url('/assets/background/waves-green1.svg')",
-        'waves-green2': "url('/assets/background/website moon.png')",
-        'blobs-blue1': "url('/assets/background/blobs-blue1.svg')",
-        'waves-t-pink1': "url('/assets/background/waves-top-pink1.svg')",
+        robobrawl: "url('/assets/background/card/rb24.jpg')",
+        msdc: "url('/assets/background/card/msdc24.jpg')",
+        tesla: "url('/assets/background/card/tc24.jpg')",
+        hsdc: "url('/assets/background/card/hsdc24.jpg')",
+        keynote: "url('/assets/background/card/keynote24.jpg')",
+        startup: "url('/assets/background/card/startup24.jpg')",
+        "waves-pink2": "url('/assets/background/waves-pink2.svg')",
+        "waves-yell1": "url('/assets/background/waves-yell1.svg')",
+        "waves-blue1": "url('/assets/background/waves-blue1.svg')",
+        "waves-blue2": "url('/assets/background/waves-blue2.svg')",
+        "waves-bottom": "url('/assets/background/waves-bottom.svg')",
+        "waves-bottom2": "url('/assets/background/waves-bottom2.svg')",
+        "waves-green1": "url('/assets/background/waves-green1.svg')",
+        "waves-green2": "url('/assets/background/website moon.png')",
+        "blobs-blue1": "url('/assets/background/blobs-blue1.svg')",
+        "waves-t-pink1": "url('/assets/background/waves-top-pink1.svg')",
       },
       keyframes: {
         zoom: {
@@ -97,4 +98,4 @@ module.exports = {
     extend: {},
   },
   plugins: [require("@tailwindcss/line-clamp")],
-}
+};
