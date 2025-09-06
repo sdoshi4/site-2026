@@ -1,8 +1,0 @@
-/public/assets/background/1.mp4 filter=lfs diff=lfs merge=lfs -text
-/public/assets/background/2.mp4 filter=lfs diff=lfs merge=lfs -text
-/public/assets/background/3.mp4 filter=lfs diff=lfs merge=lfs -text
-/public/assets/background/4.mp4 filter=lfs diff=lfs merge=lfs -text
-public/assets/background/1.mp4 filter=lfs diff=lfs merge=lfs -text
-public/assets/background/2.mp4 filter=lfs diff=lfs merge=lfs -text
-public/assets/background/3.mp4 filter=lfs diff=lfs merge=lfs -text
-public/assets/background/4.mp4 filter=lfs diff=lfs merge=lfs -text
